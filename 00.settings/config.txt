@@ -1,0 +1,6 @@
+/home/zwei/fast/data/sh/pipe/FFPE_CUTAC_Pipeline_test     # working directory (pipeline results)
+/home/zwei/fast/data/sh/ready/CUTAC_7_tissue_paper  # origin data directory (fastq files)
+/fh/fast/lin_x/golden/ref/hg38                                 # genome references directory
+/fh/fast/lin_x/golden/software                             # dependent software binaries directory
+36                                                  # CPU-cores
+683                                                 # memory (GB)
